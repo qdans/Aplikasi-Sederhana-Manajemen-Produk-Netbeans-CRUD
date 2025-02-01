@@ -46,7 +46,5 @@ Berikut adalah versi yang lebih jelas dan terstruktur dari tutorial pemasangan:
 Setelah semua langkah di atas selesai, proyek siap dijalankan melalui NetBeans. 🚀  
 
 ---
-
-Penjelasan ini lebih rapi dan memudahkan pemahaman. Apakah perlu tambahan lainnya? 😊
    
 
