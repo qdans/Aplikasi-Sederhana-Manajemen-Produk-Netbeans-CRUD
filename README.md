@@ -64,9 +64,6 @@ Setelah semua langkah di atas selesai, proyek siap dijalankan melalui NetBeans. 
 ## 🤝 Kontribusi
 Kontribusi sangat diterima! Jika ingin meningkatkan proyek ini, silakan fork repositori, buat perubahan, dan kirim pull request. 😊
 
-## 📜 Lisensi
-Proyek ini menggunakan lisensi **MIT**, sehingga bebas digunakan dan dikembangkan lebih lanjut.
-
 ---
 
 Terima kasih telah menggunakan aplikasi ini! Jika ada pertanyaan atau kendala, jangan ragu untuk menghubungi saya. Happy coding! 🎉
