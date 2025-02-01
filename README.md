@@ -1,6 +1,12 @@
-# Aplikasi-Sederhana-Data-Product-Netbeans
-Ini adalah aplikasi sederhana untuk mendata informasi product yang di jalakan melalui netbeans dan menggunakan  mysql databases.
+# Aplikasi Sederhana Data Product Netbeans (CRUD)
+Aplikasi ini merupakan sistem manajemen produk sederhana berbasis Java dengan MySQL sebagai database. Dibangun menggunakan NetBeans, aplikasi ini memungkinkan pengguna untuk menambahkan, mengedit, menghapus, dan melihat daftar produk.
 
+Fitur utama:
+✅ CRUD (Create, Read, Update, Delete) produk
+✅ Terhubung dengan database MySQL
+✅ Antarmuka berbasis GUI menggunakan Java Swing
+
+Aplikasi ini cocok untuk pemula yang ingin belajar Java + MySQL dalam proyek berbasis desktop. 🚀
 Berikut adalah versi yang lebih jelas dan terstruktur dari tutorial pemasangan:  
 
 ---
