@@ -15,42 +15,42 @@ Berikut adalah versi yang lebih jelas dan terstruktur dari tutorial pemasangan:
 
 ---
 
-## Cara Memasang Proyek  
+## Cara Memasang Proyek   
 
-### **1. Unduh & Ekstrak Proyek**  
-- Unduh file **ZIP** dari repositori.  
-- Ekstrak file ZIP ke lokasi yang mudah diakses.  
+### **1. Unduh dan Ekstrak File**  
+- Unduh file **ZIP** dari repositori ini.  
+- Ekstrak file ZIP tersebut.  
+- Masuk ke folder hasil ekstraksi, lalu ekstrak file **`product.zip`** di dalamnya.  
 
 ### **2. Buka Proyek di NetBeans**  
-- Buka **NetBeans**.  
-- Pilih **File > Open Project** lalu arahkan ke folder proyek yang telah diekstrak.  
+- Jalankan **NetBeans**.  
+- Pilih **Open Project** dan arahkan ke folder proyek yang telah diekstrak.  
 - Tunggu hingga NetBeans selesai memuat proyek.  
 
-   ![Screenshot 2025-02-01 193058](https://github.com/user-attachments/assets/a52388d0-d1cb-4469-86f8-dffc98a039fb)  
+   ![Screenshot NetBeans](https://github.com/user-attachments/assets/a52388d0-d1cb-4469-86f8-dffc98a039fb)  
 
-### **3. Jalankan XAMPP**  
-- Buka aplikasi **XAMPP**.  
-- Klik **Start** pada **Apache** & **MySQL**.  
+### **3. Instal & Jalankan XAMPP**  
+- Jika belum memiliki **XAMPP**, unduh dan instal dari [situs resmi XAMPP](https://www.apachefriends.org/download.html).  
+- Setelah instalasi selesai, buka **XAMPP Control Panel**.  
+- Klik tombol **Start** pada **Apache** dan **MySQL**.  
 
-   ![Screenshot 2025-02-01 193332](https://github.com/user-attachments/assets/2cecc0ca-d783-488a-aac9-992bfc77150b)  
+   ![Screenshot XAMPP](https://github.com/user-attachments/assets/2cecc0ca-d783-488a-aac9-992bfc77150b)  
 
-### **4. Buat & Impor Database**  
-- Buka **http://localhost/phpmyadmin/** di browser.  
-- Buat database baru dengan nama **"product"**.  
-- Klik **Import**, lalu pilih file **"product.sql"** dari folder proyek.  
-- Klik **Go** untuk memulai proses impor.  
+### **4. Konfigurasi Database**  
+- Buka browser dan akses **`http://localhost/phpmyadmin/`**.  
+- Buat database baru dengan nama **`product`**.  
+- Klik **Import**, lalu pilih dan unggah file **`product.sql`** dari folder proyek.  
+- Klik **Go** untuk memproses impor database.  
 
-   ![Screenshot 2025-02-01 194327](https://github.com/user-attachments/assets/a4c5cf2b-dff6-477a-9470-061b3a4a85e8)  
+   ![Screenshot phpMyAdmin](https://github.com/user-attachments/assets/a4c5cf2b-dff6-477a-9470-061b3a4a85e8)  
 
 ### **5. Tambahkan MySQL Connector**  
-- Unduh **MySQL Connector** dari:  
-  👉 [MySQL Connector Archives](https://downloads.mysql.com/archives/c-j/)  
-- Setelah diunduh, buka NetBeans dan tambahkan **Connector/J** ke Libraries proyek:  
-  - Klik kanan pada **Libraries** di dalam proyek.  
-  - Pilih **Add JAR/Folder**.  
-  - Pilih file **MySQL Connector** yang telah diunduh.  
+- Unduh **MySQL Connector** dari [situs resmi MySQL](https://downloads.mysql.com/archives/c-j/).  
+- Di NetBeans, klik kanan pada proyek → **Properties** → **Libraries**.  
+- Klik **Add JAR/Folder**, lalu pilih file **MySQL Connector JAR** yang telah diunduh.  
+- Klik **OK** untuk menyimpan perubahan.  
 
-   ![Screenshot 2025-02-01 195637](https://github.com/user-attachments/assets/f9a9b704-aec2-4e89-b33d-29a0b8775b9c)  
+   ![Screenshot MySQL Connector](https://github.com/user-attachments/assets/f9a9b704-aec2-4e89-b33d-29a0b8775b9c)  
 
 ### **6. Jalankan Aplikasi**  
 Setelah semua langkah di atas selesai, proyek siap dijalankan melalui NetBeans. 🚀  
