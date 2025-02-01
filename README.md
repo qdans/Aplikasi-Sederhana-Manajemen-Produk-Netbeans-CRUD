@@ -10,6 +10,7 @@ Fitur utama:
 ✅ Antarmuka berbasis GUI menggunakan Java Swing
 
 Aplikasi ini cocok untuk pemula yang ingin belajar Java + MySQL dalam proyek berbasis desktop. 🚀
+
 Berikut adalah versi yang lebih jelas dan terstruktur dari tutorial pemasangan:  
 
 ---
