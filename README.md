@@ -3,11 +3,12 @@ Aplikasi ini merupakan sistem manajemen produk sederhana berbasis Java dengan My
 
 # Fitur utama:
 
-✅ CRUD (Create, Read, Update, Delete) produk
+➖ CRUD (Create, Read, Update, Delete) produk
 
-✅ Terhubung dengan database MySQL
+➖ Terhubung dengan database MySQL
 
-✅ Antarmuka berbasis GUI menggunakan Java Swing
+➖ Antarmuka berbasis GUI menggunakan Java Swing
+
 
 Aplikasi ini cocok untuk pemula yang ingin belajar Java + MySQL dalam proyek berbasis desktop. 🚀
 
