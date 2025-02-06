@@ -17,7 +17,6 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 ### **1. Unduh dan Ekstrak Proyek**
 1. Unduh file **ZIP** dari repositori ini.
 2. Ekstrak file ZIP ke dalam folder lokal.
-3. Buka folder hasil ekstraksi dan ekstrak kembali file **`product.zip`** di dalamnya.
 
 ### **2. Buka Proyek di NetBeans**
 1. Jalankan **NetBeans**.
