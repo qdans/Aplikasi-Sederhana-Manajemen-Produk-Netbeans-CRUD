@@ -23,14 +23,20 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Pilih **Open Project** dan arahkan ke folder proyek yang telah diekstrak.
 - Tunggu hingga NetBeans selesai memuat proyek.
 
-  [Lihat Screenshot NetBeans](https://github.com/user-attachments/assets/a52388d0-d1cb-4469-86f8-dffc98a039fb)
+  <details>
+  <summary>▶ Screenshot NetBeans</summary>
+  <img src="https://github.com/user-attachments/assets/a52388d0-d1cb-4469-86f8-dffc98a039fb"/>
+  </details>
 
 ### **3. Instal & Jalankan XAMPP**
 - Jika belum memiliki **XAMPP**, unduh dan instal dari [situs resmi XAMPP](https://www.apachefriends.org/download.html).
 - Buka **XAMPP Control Panel**.
 - Klik tombol **Start** pada **Apache** dan **MySQL**.
 
-  [Lihat Screenshot XAMPP](https://github.com/user-attachments/assets/2cecc0ca-d783-488a-aac9-992bfc77150b)
+  <details>
+  <summary>▶ Screenshot XAMPP</summary>
+  <img src="https://github.com/user-attachments/assets/2cecc0ca-d783-488a-aac9-992bfc77150b"/>
+  </details>
 
 ### **4. Konfigurasi Database**
 - Buka browser dan akses **`http://localhost/phpmyadmin/`**.
@@ -38,7 +44,10 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Klik **Import**, lalu pilih file **`product.sql`** dari folder proyek.
 - Klik **Go** untuk memproses impor database.
 
-  [Lihat Screenshot phpMyAdmin](https://github.com/user-attachments/assets/a4c5cf2b-dff6-477a-9470-061b3a4a85e8)
+  <details>
+  <summary>▶ Screenshot phpMyAdmin</summary>
+  <img src="https://github.com/user-attachments/assets/a4c5cf2b-dff6-477a-9470-061b3a4a85e8"/>
+  </details>
 
 ### **5. Tambahkan MySQL Connector ke Proyek**
 - Unduh **MySQL Connector JAR** dari [situs resmi MySQL](https://downloads.mysql.com/archives/c-j/).
@@ -46,7 +55,10 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Klik **Add JAR/Folder**, lalu pilih file **MySQL Connector JAR** yang telah diunduh.
 - Klik **OK** untuk menyimpan perubahan.
 
-  [Lihat Screenshot MySQL Connector](https://github.com/user-attachments/assets/f9a9b704-aec2-4e89-b33d-29a0b8775b9c)
+  <details>
+  <summary>▶ Screenshot MySQL Connector</summary>
+  <img src="https://github.com/user-attachments/assets/f9a9b704-aec2-4e89-b33d-29a0b8775b9c"/>
+  </details>
 
 ### **6. Jalankan Aplikasi**
 Setelah semua langkah di atas selesai, proyek siap dijalankan melalui NetBeans. Cukup klik **Run Project** dan aplikasi akan berjalan! 🚀
