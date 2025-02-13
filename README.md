@@ -24,7 +24,7 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Tunggu hingga NetBeans selesai memuat proyek.
 
   <details>
-  <summary>Screenshot NetBeans</summary>
+  <summary>e.g.</summary>
   <img src="https://github.com/user-attachments/assets/a52388d0-d1cb-4469-86f8-dffc98a039fb"/>
   </details>
 
@@ -34,7 +34,7 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Klik tombol **Start** pada **Apache** dan **MySQL**.
 
   <details>
-  <summary>Screenshot XAMPP</summary>
+  <summary>e.g.</summary>
   <img src="https://github.com/user-attachments/assets/2cecc0ca-d783-488a-aac9-992bfc77150b"/>
   </details>
 
@@ -45,7 +45,7 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Klik **Go** untuk memproses impor database.
 
   <details>
-  <summary>Screenshot phpMyAdmin</summary>
+  <summary>e.g.</summary>
   <img src="https://github.com/user-attachments/assets/a4c5cf2b-dff6-477a-9470-061b3a4a85e8"/>
   </details>
 
@@ -56,7 +56,7 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Klik **OK** untuk menyimpan perubahan.
 
   <details>
-  <summary>Screenshot MySQL Connector</summary>
+  <summary>e.g.</summary>
   <img src="https://github.com/user-attachments/assets/f9a9b704-aec2-4e89-b33d-29a0b8775b9c"/>
   </details>
 
