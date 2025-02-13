@@ -1,8 +1,8 @@
-# Aplikasi Manajemen Produk Sederhana (CRUD) dengan Java & MySQL
+# <span style="color:#2E86C1">Aplikasi Manajemen Produk Sederhana (CRUD) dengan Java & MySQL</span>
 
 Aplikasi ini adalah sistem manajemen produk berbasis Java yang menggunakan MySQL sebagai database. Dibangun dengan **NetBeans** dan didukung oleh **Java Swing**, aplikasi ini memungkinkan pengguna untuk melakukan operasi **CRUD** (Create, Read, Update, Delete) pada data produk dengan antarmuka yang user-friendly.
 
-## ✨ Fitur Utama
+## ✨ <span style="color:#D35400">Fitur Utama</span>
 - **CRUD Produk** – Tambah, lihat, perbarui, dan hapus data produk dengan mudah.
 - **Terintegrasi dengan MySQL** – Data produk disimpan dan dikelola melalui database MySQL.
 - **Antarmuka Grafis (GUI)** – Menggunakan Java Swing untuk pengalaman pengguna yang lebih interaktif.
@@ -12,7 +12,7 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 
 ---
 
-## 📌 Cara Instalasi & Penggunaan
+## 📌 <span style="color:#27AE60">Cara Instalasi & Penggunaan</span>
 
 ### **1. Unduh dan Ekstrak Proyek**
 - Unduh file **ZIP** dari repositori ini.
@@ -65,14 +65,14 @@ Setelah semua langkah di atas selesai, proyek siap dijalankan melalui NetBeans. 
 
 ---
 
-## 📚 Teknologi yang Digunakan
+## 📚 <span style="color:#8E44AD">Teknologi yang Digunakan</span>
 - **Java** – Bahasa pemrograman utama untuk pengembangan aplikasi.
 - **MySQL** – Database untuk menyimpan data produk.
 - **NetBeans** – IDE yang digunakan untuk pengembangan aplikasi.
 - **Java Swing** – Framework GUI untuk antarmuka pengguna.
 - **XAMPP** – Server lokal untuk menjalankan MySQL dan Apache.
 
-## 🤝 Kontribusi
+## 🤝 <span style="color:#E74C3C">Kontribusi</span>
 Kontribusi sangat diterima! Jika ingin meningkatkan proyek ini, silakan fork repositori, buat perubahan, dan kirim pull request. 😊
 
 ---
