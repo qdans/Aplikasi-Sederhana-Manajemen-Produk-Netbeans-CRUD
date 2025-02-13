@@ -1,18 +1,18 @@
-# <span style="color:#2E86C1">Aplikasi Manajemen Produk Sederhana (CRUD) dengan Java & MySQL</span>
+# Aplikasi Manajemen Produk Sederhana (CRUD) dengan Java & MySQL
 
 Aplikasi ini adalah sistem manajemen produk berbasis Java yang menggunakan MySQL sebagai database. Dibangun dengan **NetBeans** dan didukung oleh **Java Swing**, aplikasi ini memungkinkan pengguna untuk melakukan operasi **CRUD** (Create, Read, Update, Delete) pada data produk dengan antarmuka yang user-friendly.
 
-## ✨ <span style="color:#D35400">Fitur Utama</span>
+## ✨ Fitur Utama
 - **CRUD Produk** – Tambah, lihat, perbarui, dan hapus data produk dengan mudah.
 - **Terintegrasi dengan MySQL** – Data produk disimpan dan dikelola melalui database MySQL.
 - **Antarmuka Grafis (GUI)** – Menggunakan Java Swing untuk pengalaman pengguna yang lebih interaktif.
 - **Dukungan NetBeans** – Dikembangkan dalam lingkungan NetBeans, memudahkan pengelolaan proyek.
 
-Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi dengan MySQL dalam proyek berbasis desktop. 🚀
+Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi dengan MySQL dalam proyek berbasis desktop.
 
 ---
 
-## 📌 <span style="color:#27AE60">Cara Instalasi & Penggunaan</span>
+## 📌 Cara Instalasi & Penggunaan
 
 ### **1. Unduh dan Ekstrak Proyek**
 - Unduh file **ZIP** dari repositori ini.
@@ -24,7 +24,7 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Tunggu hingga NetBeans selesai memuat proyek.
 
   <details>
-  <summary>▶ Screenshot NetBeans</summary>
+  <summary>Screenshot NetBeans</summary>
   <img src="https://github.com/user-attachments/assets/a52388d0-d1cb-4469-86f8-dffc98a039fb"/>
   </details>
 
@@ -34,7 +34,7 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Klik tombol **Start** pada **Apache** dan **MySQL**.
 
   <details>
-  <summary>▶ Screenshot XAMPP</summary>
+  <summary>Screenshot XAMPP</summary>
   <img src="https://github.com/user-attachments/assets/2cecc0ca-d783-488a-aac9-992bfc77150b"/>
   </details>
 
@@ -45,7 +45,7 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Klik **Go** untuk memproses impor database.
 
   <details>
-  <summary>▶ Screenshot phpMyAdmin</summary>
+  <summary>Screenshot phpMyAdmin</summary>
   <img src="https://github.com/user-attachments/assets/a4c5cf2b-dff6-477a-9470-061b3a4a85e8"/>
   </details>
 
@@ -56,24 +56,24 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 - Klik **OK** untuk menyimpan perubahan.
 
   <details>
-  <summary>▶ Screenshot MySQL Connector</summary>
+  <summary>Screenshot MySQL Connector</summary>
   <img src="https://github.com/user-attachments/assets/f9a9b704-aec2-4e89-b33d-29a0b8775b9c"/>
   </details>
 
 ### **6. Jalankan Aplikasi**
-Setelah semua langkah di atas selesai, proyek siap dijalankan melalui NetBeans. Cukup klik **Run Project** dan aplikasi akan berjalan! 🚀
+Setelah semua langkah di atas selesai, proyek siap dijalankan melalui NetBeans. Cukup klik **Run Project** dan aplikasi akan berjalan!
 
 ---
 
-## 📚 <span style="color:#8E44AD">Teknologi yang Digunakan</span>
+## 📚 Teknologi yang Digunakan
 - **Java** – Bahasa pemrograman utama untuk pengembangan aplikasi.
 - **MySQL** – Database untuk menyimpan data produk.
 - **NetBeans** – IDE yang digunakan untuk pengembangan aplikasi.
 - **Java Swing** – Framework GUI untuk antarmuka pengguna.
 - **XAMPP** – Server lokal untuk menjalankan MySQL dan Apache.
 
-## 🤝 <span style="color:#E74C3C">Kontribusi</span>
-Kontribusi sangat diterima! Jika ingin meningkatkan proyek ini, silakan fork repositori, buat perubahan, dan kirim pull request. 😊
+## 🤝 Kontribusi
+Kontribusi sangat diterima! Jika ingin meningkatkan proyek ini, silakan fork repositori, buat perubahan, dan kirim pull request.
 
 ---
 
