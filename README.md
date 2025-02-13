@@ -15,36 +15,36 @@ Aplikasi ini cocok bagi pemula yang ingin memahami bagaimana Java berinteraksi d
 ## 📌 Cara Instalasi & Penggunaan
 
 ### **1. Unduh dan Ekstrak Proyek**
-1. Unduh file **ZIP** dari repositori ini.
-2. Ekstrak file ZIP ke dalam folder lokal.
+- Unduh file **ZIP** dari repositori ini.
+- Ekstrak file ZIP ke dalam folder lokal.
 
 ### **2. Buka Proyek di NetBeans**
-1. Jalankan **NetBeans**.
-2. Pilih **Open Project** dan arahkan ke folder proyek yang telah diekstrak.
-3. Tunggu hingga NetBeans selesai memuat proyek.
+- Jalankan **NetBeans**.
+- Pilih **Open Project** dan arahkan ke folder proyek yang telah diekstrak.
+- Tunggu hingga NetBeans selesai memuat proyek.
 
    ![Screenshot NetBeans](https://github.com/user-attachments/assets/a52388d0-d1cb-4469-86f8-dffc98a039fb)
 
 ### **3. Instal & Jalankan XAMPP**
-1. Jika belum memiliki **XAMPP**, unduh dan instal dari [situs resmi XAMPP](https://www.apachefriends.org/download.html).
-2. Buka **XAMPP Control Panel**.
-3. Klik tombol **Start** pada **Apache** dan **MySQL**.
+- Jika belum memiliki **XAMPP**, unduh dan instal dari [situs resmi XAMPP](https://www.apachefriends.org/download.html).
+- Buka **XAMPP Control Panel**.
+- Klik tombol **Start** pada **Apache** dan **MySQL**.
 
    ![Screenshot XAMPP](https://github.com/user-attachments/assets/2cecc0ca-d783-488a-aac9-992bfc77150b)
 
 ### **4. Konfigurasi Database**
-1. Buka browser dan akses **`http://localhost/phpmyadmin/`**.
-2. Buat database baru dengan nama **`product`**.
-3. Klik **Import**, lalu pilih file **`product.sql`** dari folder proyek.
-4. Klik **Go** untuk memproses impor database.
+- Buka browser dan akses **`http://localhost/phpmyadmin/`**.
+- Buat database baru dengan nama **`product`**.
+- Klik **Import**, lalu pilih file **`product.sql`** dari folder proyek.
+- Klik **Go** untuk memproses impor database.
 
    ![Screenshot phpMyAdmin](https://github.com/user-attachments/assets/a4c5cf2b-dff6-477a-9470-061b3a4a85e8)
 
 ### **5. Tambahkan MySQL Connector ke Proyek**
-1. Unduh **MySQL Connector JAR** dari [situs resmi MySQL](https://downloads.mysql.com/archives/c-j/).
-2. Di NetBeans, klik kanan pada proyek → **Properties** → **Libraries**.
-3. Klik **Add JAR/Folder**, lalu pilih file **MySQL Connector JAR** yang telah diunduh.
-4. Klik **OK** untuk menyimpan perubahan.
+- Unduh **MySQL Connector JAR** dari [situs resmi MySQL](https://downloads.mysql.com/archives/c-j/).
+- Di NetBeans, klik kanan pada proyek → **Properties** → **Libraries**.
+- Klik **Add JAR/Folder**, lalu pilih file **MySQL Connector JAR** yang telah diunduh.
+- Klik **OK** untuk menyimpan perubahan.
 
    ![Screenshot MySQL Connector](https://github.com/user-attachments/assets/f9a9b704-aec2-4e89-b33d-29a0b8775b9c)
 
