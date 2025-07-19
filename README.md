@@ -72,9 +72,6 @@ Setelah semua langkah di atas selesai, proyek siap dijalankan melalui NetBeans. 
 - **Java Swing** – Framework GUI untuk antarmuka pengguna.
 - **XAMPP** – Server lokal untuk menjalankan MySQL dan Apache.
 
-## 🤝 Kontribusi
-Kontribusi sangat diterima! Jika ingin meningkatkan proyek ini, silakan fork repositori, buat perubahan, dan kirim pull request.
-
 ---
 
 Terima kasih telah menggunakan aplikasi ini! Jika ada pertanyaan atau kendala, jangan ragu untuk menghubungi saya.
